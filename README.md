@@ -1,7 +1,7 @@
 # Queen Asha MD MULTIDEVICE WHATSAPP BOT 🥳
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FFF84CFA&multiline=true&random=true&width=435&lines=Queen+Mini+By+KAVIDU++%26+Ishan+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FFF84CFA&multiline=true&random=true&width=435&lines=Queen+Mini+By+KAVIDU++%26+ISHAN+)](https://git.io/typing-svg)
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
